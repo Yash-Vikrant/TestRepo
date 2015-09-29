@@ -1,0 +1,13 @@
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\ProductApp.dll.config
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\ProductApp.dll
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\ProductApp.pdb
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\Newtonsoft.Json.dll
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\System.Net.Http.Formatting.dll
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\System.Web.Http.dll
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\System.Web.Http.WebHost.dll
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\Newtonsoft.Json.xml
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\System.Net.Http.Formatting.xml
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\System.Web.Http.xml
+D:\Satinder Data\WebApi\ProductApp\ProductApp\bin\System.Web.Http.WebHost.xml
+D:\Satinder Data\WebApi\ProductApp\ProductApp\obj\Debug\ProductApp.dll
+D:\Satinder Data\WebApi\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
